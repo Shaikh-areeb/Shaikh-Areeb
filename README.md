@@ -15,12 +15,11 @@ Predictive modeling for real-world datasets.
 Exploratory data analysis (EDA) using Python.
 Machine learning models for regression and classification.
 📊 Working on improving my data visualization and storytelling skills.
-📝 Blogging about data science topics and sharing tutorials.
 
 Goals
 🚀 Transition into a Data Scientist role after graduation.
-📚 Master deep learning and advanced machine learning techniques.
-🤝 Contribute to open-source data science projects.
+📚 Want to Master deep learning and advanced machine learning techniques.
+🤝 Would Like to Contribute to open-source data science projects.
 
 How to Reach Me
 📧 Email: areebshaikh002@gmail.com
