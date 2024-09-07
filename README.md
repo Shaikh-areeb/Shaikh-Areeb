@@ -21,6 +21,7 @@ Goals
 🚀 Transition into a Data Scientist role after graduation.
 📚 Master deep learning and advanced machine learning techniques.
 🤝 Contribute to open-source data science projects.
+
 How to Reach Me
 📧 Email: areebshaikh002@gmail.com
 💼 LinkedIn: www.linkedin.com/in/shaikh-mohammed-areeb
