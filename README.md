@@ -6,7 +6,7 @@ About Me
 🎓 Currently studying Data Science at Imarticus Learning Pune.
 🔢 Interested in machine learning, statistical modeling, and data visualization.
 💻 Skilled in Python, Pandas, NumPy, scikit-learn, and Matplotlib.
-🧑‍💻 Always learning new tools like TensorFlow, SQL, and Tableau.
+🧑‍💻 Always learning new tools like TensorFlow, SQL, and Power BI.
 🤖 Working on machine learning projects to understand different algorithms and their applications.
 
 What I’m Working On
