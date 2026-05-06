@@ -80,8 +80,8 @@ I'm a passionate **Data Analyst** with a strong foundation in **Data Science and
 
 ## 📫 How to Reach Me
 
-📧 Email: [areebshaikh002@gmail.com](mailto:areebshaikh002@gmail.com)
-💼 LinkedIn: https://www.linkedin.com/in/shaikh-mohammed-areeb
+📧 Email: areebshaikh002@gmail.com<br>
+💼 LinkedIn: www.linkedin.com/in/shaikh-mohammed-areeb
 
 ---
 
