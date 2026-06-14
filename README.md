@@ -10,7 +10,7 @@ I'm a passionate **Data Analyst** with a strong foundation in **Data Science and
 🎓 Completed Data Science program at **Imarticus Learning, Pune (Jun 2024 – Feb 2025)**
 🎓 Graduated with a **BCA (Jun 2021 – Mar 2024)**
 📊 Strong interest in **data analytics, machine learning, and scalable data systems**
-💻 Skilled in **Python, SQL, Power BI, and modern data platforms**
+💻 Skilled in **Python, SQL, PySpark, Power BI, and modern data platforms**
 
 ---
 
@@ -31,7 +31,7 @@ I'm a passionate **Data Analyst** with a strong foundation in **Data Science and
 * Developed interactive dashboards by connecting Gold layer data to Power BI
 * Collaborated with stakeholders to deliver scalable data models and insights
 
-**Tech Stack:** Microsoft Fabric, Power BI, API Integration, ELT, Medallion Architecture, Power Query, DAX, SQL
+**Tech Stack:** Microsoft Fabric, Power BI, API Integration, ELT, Medallion Architecture, Power Query, DAX, SQL, PySpark
 
 ---
 
@@ -50,7 +50,7 @@ I'm a passionate **Data Analyst** with a strong foundation in **Data Science and
 * Maintained data hierarchy and ensured governance standards
 * Collaborated with teams to resolve discrepancies and improve data reliability
 
-**Tech Stack:** Veeva Network, Veeva OpenData, Data Quality, Data Governance
+**Tech Stack:** Veeva Network, Veeva OpenData, Data Quality, Data Governance, Excel, SQL, Snowflake
 
 ---
 
